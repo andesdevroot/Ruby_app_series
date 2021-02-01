@@ -4,5 +4,3 @@ def new
 end
 
 end
-
- 
